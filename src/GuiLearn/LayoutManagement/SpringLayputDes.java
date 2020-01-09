@@ -12,7 +12,7 @@ import javax.swing.*;
     JPanel panel = new JPanel(layout);
 
     // 创建 按钮组件，并添加到 容器
-    JButton btn = new JButton("Button");
+    JButtonLearn btn = new JButtonLearn("Button");
     panel.add(btn);
 
     // 获取 按钮组件 的 约束对象（如果没有，会自动创建）
