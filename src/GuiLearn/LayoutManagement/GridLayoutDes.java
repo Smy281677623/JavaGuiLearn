@@ -22,6 +22,7 @@ GridLayout(int rows, int cols, int hgap, int vgap)
 public class GridLayoutDes {
 
     public static void main(String[] args) {
+        //TODO 网格布局
         JFrame tool = new JFrame("TestTool");
         tool.setSize(500, 300);
         tool.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);

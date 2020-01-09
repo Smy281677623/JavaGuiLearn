@@ -6,6 +6,7 @@ import java.awt.*;
 public class FlowlayoutDes {
 
     public static void main(String[] args) {
+        //TODO 流式布局
         //创建一个小窗口,并设置窗口名称
         JFrame jFrame = new JFrame("Small Designer");
         //设置窗体大小

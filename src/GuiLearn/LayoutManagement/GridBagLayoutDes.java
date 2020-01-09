@@ -77,6 +77,7 @@ PS: 上面各属性值之间，以及其他因素，有可能存在冲突或不�
 * */
 public class GridBagLayoutDes {
     public static void main(String[] args) {
+        //TODO 网格袋布局
         JFrame jf = new JFrame("测试窗口");
         jf.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 

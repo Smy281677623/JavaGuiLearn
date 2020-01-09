@@ -39,6 +39,7 @@ Box 内的组件之间默认没有空隙并居中，如果想在组件之间（�
 public class BoxLayoutDes {
 
     public static void main(String[] args) {
+        //TODO 箱式布局
         JFrame jf = new JFrame("测试窗口");
         jf.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 

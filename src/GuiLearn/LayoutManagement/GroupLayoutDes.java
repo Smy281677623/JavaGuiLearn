@@ -43,6 +43,7 @@ GroupLayout 对 X轴（水平方向）和 Y轴（竖直方向）单独对待，�
 * */
 public class GroupLayoutDes {
     public static void main(String[] args) {
+        //TODO 分组布局
         JFrame jf = new JFrame("测试窗口");
         jf.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
